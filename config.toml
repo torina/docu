@@ -1,4 +1,4 @@
-baseURL = "gethugothemes.com"
+baseURL = "https://documentation-sample.netlify.com"
 theme = "dot"
 
 
