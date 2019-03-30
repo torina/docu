@@ -1,4 +1,4 @@
-baseURL = "https://documentation-sample.netlify.com"
+baseURL = "documentation-sample.netlify.com"
 theme = "dot"
 
 
