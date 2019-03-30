@@ -1,5 +1,5 @@
 baseURL = "https://documentation-sample.netlify.com"
-theme = "hugp-theme-techdoc"
+theme = "docdock"
 
 
 [params]
